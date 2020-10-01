@@ -1,0 +1,14 @@
+namespace: "insight-infra"
+name: "collection_eth"
+version: "0.0.1"
+license:
+  - MIT
+readme: README.md
+authors:
+  - "Rob Cannon <github.com/robcxyz>"
+description: "A collection of Eth"
+dependencies:
+repository: https://github.com/insight-infrastructure/ansible-prysm
+documentation:
+homepage:
+issues:
