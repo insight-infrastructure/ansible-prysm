@@ -1,4 +1,4 @@
-namespace: "insight-infra"
+namespace: "insight_infra"
 name: "collection_eth"
 version: "0.0.1"
 license:
